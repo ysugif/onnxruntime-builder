@@ -8,3 +8,5 @@ Github Actions から workflow_dispatch を起動。
 ## リリース
 
 Releases からタグを指定して Publish releases 。
+
+# update to trigger CI 
